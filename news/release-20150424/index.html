@@ -7,10 +7,10 @@
 
   
   <!-- OpenGraph -->
-  <meta property="og:title" content="OpenRA" />
+  <meta property="og:title" content="Release 20150424 | OpenRA" />
   <meta property="og:type" content="website" />
   <meta property="og:description" content="Classic strategy games rebuilt for the modern era" />
-  <meta property="og:url" content="https://www.openra.net/" />
+  <meta property="og:url" content="https://www.openra.net/news/release-20150424/" />
   <!-- query param at the end is for cache busting if/when more dynamic social images are added -->
   <meta property="og:image" content="https://www.openra.net/images/social.jpg?t=2022-01-10-15-50" />
   <!-- Twitter -->
@@ -19,9 +19,9 @@
   <meta name="twitter:creator" content="@openRA">
 
   
-  <title>OpenRA - Classic strategy games rebuilt for the modern era</title>
+  <title>Release 20150424 | OpenRA</title>
 
-  <link rel="canonical" href="https://www.openra.net/" />
+  <link rel="canonical" href="https://www.openra.net/news/release-20150424/" />
 
   <link rel="stylesheet" href="/styles/normalize.css" />
   <link rel="stylesheet" href="/styles/index.css" />
@@ -62,7 +62,7 @@
       </button>
 
       <nav class="site-header__nav">
-        <a class="site-header__nav__link" href="/news/" tabindex="0">News</a>
+        <a class="site-header__nav__link is-active" href="/news/" tabindex="0">News</a>
         <a class="site-header__nav__link" href="/about/" tabindex="0">About</a>
         <a class="site-header__nav__link" href="/download/" tabindex="0">Download</a>
         <a class="site-header__nav__link" href="/games/" tabindex="0">Games</a>
@@ -143,193 +143,99 @@
 </header>
 
       <div class="site-content">
-      <section class="hero site-section">
-  <div class="site-section__content">
-    <header class="hero__header">
-      <h1 class="hero__intro-text">
-        <span id="game-carousel" class="hero__intro-text__games carousel">
-          <span class="carousel__items">
-            
-              <span class="hero__intro-text__ra hero__intro-text__game carousel__item carousel__item">
-                Red Alert,&nbsp;
-              </span>
-            
-              <span class="hero__intro-text__cnc hero__intro-text__game carousel__item carousel__item">
-                Command & Conquer,&nbsp;
-              </span>
-            
-              <span class="hero__intro-text__d2k hero__intro-text__game carousel__item carousel__item">
-                Dune 2000,&nbsp;
-              </span>
-            
-          </span>
-        </span>
-        <span class="hero__intro-text__tagline color--gold">Rebuilt for the Modern Era.</span>
-      </h1>
-      <div class="install">
-        <a class="button button--large button--primary" href="/download/">
-          Install Now
-          <svg class="button__icon icon">
-            <use xlink:href="/images/icons/icons.svg#icon-download"></use>
-          </svg>
-        </a>
-      </div>
-    </header>
-    <div id="hero-carousel" class="hero-carousel carousel">
-      <div class="hero-carousel__items">
-        <div class="carousel__items" style="width: 300%">
-          
-            <div id="hero-ra" class="carousel__item">
-              <div class="carousel__item__content aspect-16-9">
-                <video
-                  class="hero-carousel__image"
-                  autoplay="true"
-                  muted="true"
-                  playsinline="true"
-                  preload="auto">
-                  <source src="/videos/red-alert-sizzle.webm" type="video/webm" />
-                  <source src="/videos/red-alert-sizzle.mp4" type="video/mp4" />
-                </video>
+        <section class="developer-update-detail site-section">
+          <div class="site-section__content">
+            <div class="dark-panel">
+              <div class="dark-panel__header">
+                <a class="developer-update-detail__view-all" href="/news/">
+                  <svg class="icon">
+                    <use xlink:href="/images/icons/icons.svg#icon-chevron-left"></use>
+                  </svg>
+                  View All Updates
+                </a>
               </div>
-            </div>
-          
-            <div id="hero-cnc" class="carousel__item">
-              <div class="carousel__item__content aspect-16-9">
-                <video
-                  class="hero-carousel__image"
-                  autoplay="true"
-                  muted="true"
-                  playsinline="true"
-                  preload="auto">
-                  <source src="/videos/command-and-conquer-sizzle.webm" type="video/webm" />
-                  <source src="/videos/command-and-conquer-sizzle.mp4" type="video/mp4" />
-                </video>
-              </div>
-            </div>
-          
-            <div id="hero-d2k" class="carousel__item">
-              <div class="carousel__item__content aspect-16-9">
-                <video
-                  class="hero-carousel__image"
-                  autoplay="true"
-                  muted="true"
-                  playsinline="true"
-                  preload="auto">
-                  <source src="/videos/dune-2000-sizzle.webm" type="video/webm" />
-                  <source src="/videos/dune-2000-sizzle.mp4" type="video/mp4" />
-                </video>
-              </div>
-            </div>
-          
-        </div>
-      </div>
-      <span class="carousel__previous">
-        <button class="carousel__previous__button" aria-label="Previous Item">
-          <svg class="icon">
-            <use xlink:href="/images/icons/icons.svg#icon-chevron-left"></use>
-          </svg>
-        </button>
-      </span>
-      <span class="carousel__next">
-        <button class="carousel__next__button" aria-label="Next Item">
-          <svg class="icon">
-            <use xlink:href="/images/icons/icons.svg#icon-chevron-right"></use>
-          </svg>
-        </button>
-      </span>
-      <nav class="carousel__pages">
-        
-          <a href="#" class="carousel__page">
-            <span class="carousel__page__indicator">Jump to Red Alert</span>
-          </a>
-        
-          <a href="#" class="carousel__page">
-            <span class="carousel__page__indicator">Jump to Command & Conquer</span>
-          </a>
-        
-          <a href="#" class="carousel__page">
-            <span class="carousel__page__indicator">Jump to Dune 2000</span>
-          </a>
-        
-        </li>
-      </nav>
-    </div>
 
-    <div class="additional-info">
-      <div class="features">
-        <h3>Built for Modern Expectations</h3>
-        <ul>
-          <li>Updated gameplay designed around modern features like <strong>attack-move</strong>, <strong>unit veterancy</strong>, and the <strong>fog of war</strong></li>
-          <li>Online play with <strong>full support</strong> for mods and custom maps</li>
-          <li>Updated campaigns with <strong>new objectives</strong> and difficulties</li>
-          <li><strong>Natively supported</strong> on Windows, macOS and Linux</strong>
-        </ul>
-      </div>
-      
-      <div class="community">
-        <h3>Made Better By The Community</h3>
-        <ul>
-          <li>Fully <strong>open source</strong> and developed in the open with <strong>community input</strong> into updates and balance</li>
-          <li>User created and curated maps</li>
-          <li>Includes a <strong>Mod SDK</strong> to create <strong>new RTS games</strong></li>
-          <li>Regular <strong>community streams</strong> and <strong>tournaments</strong></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<hr class="site-section__divider" />
-
-<section class="home__developer-updates site-section">
-  <div class="site-section__content">
-    <div class="dark-panel">
-      <div class="dark-panel__header">
-        <strong class="text--caps text--medium">Updates from the Developers</strong>
-        <a class="home__developer-updates__view-all" href="/news/">[View All Updates]</a>
-      </div>
-      
-        <article class="developer-update">
+              <article class="developer-update">
   <header class="developer-update__header">
     <div class="developer-update__subheading text--medium">
-      Posted by <strong class="developer-update__author">Paul Chote</strong> on <time>21 March 2021</time>
+      Posted by <strong class="developer-update__author">Oliver Brakmann</strong> on <time>24 April 2015</time>
     </div>
-    <h3 class="developer-update__heading">Release 20210321 and a new website</h3>
+    <h3 class="developer-update__heading">Release 20150424</h3>
   </header>
   <div class="developer-update__body">
-    <p>Today is the day that many have been waiting for: the new stable OpenRA <a href="/download">Release 20210321</a> is now available!</p>
+    <p>We are very pleased to announce the Spring release of OpenRA!</p>
 
-<p>We had originally planned to announce this release with a new <a href="https://www.youtube.com/playlist?list=PLwJbJ_UtmkDaL4cClS2QYd3uXueES4KEq">patch spotlight</a> video, but an unfortunately timed computer failure has left FiveAces’ battlefield control offline until repairs are completed. Rather than continue to delay the release, we have commissioned our best artist to make the placeholder image below, and will post the real spotlight once it is available.</p>
+<p>This release is a huge step forward for the Dune 2000 mod in particular. It includes just shy of 1000 commits by 53 contributors, the culmination of six months of relentless work. With more than 2000 files and 210,000 changed lines it is one of our busiest development cycles to date.</p>
 
-<figure>
-  <img src="/images/news/20210321-spotlight-soon.jpg" style="width: 600px" alt="Release spotlight placeholder" />
-  <figcaption>The 20210321 release spotlight has been temporarily delayed. Stay tuned for updates!</figcaption>
-</figure>
+<p>A large development focus has been on the Dune 2000 mod, which contains the most visible changes. A new sidebar, sandworms and Carryalls are the big new features, which should make any Dune 2000 player feel more at home in our mod. Additionally, the OpenRA.Utility now supports importing maps from the original Dune 2000 game, so we hope that the number of maps and of course the number of players will increase in the near future!</p>
 
-<p>Many of the biggest changes in this release were focused around the in-development Tiberian Sun mod, which continues to make slow progress in our development repository. There are many great changes for Red Alert, Tiberian Dawn, and Dune 2000 too, focusing mainly around streamlining some awkward gameplay mechanics, improving community integration, and improving our singleplayer content:</p>
+<p>The other mods were not neglected, though. In Red Alert, the standout feature is the support of playable factions such as Russia, England, France, Ukraine and Germany. In both Red Alert and Tiberian Dawn, new single-player missions are available that will keep you occupied.</p>
+
+<p>Of course, we have not only improved the mods themselves. Here is a list of changes that affect the game in general:</p>
 
 <ul>
-  <li>Support for Discord integration and community-run ladders</li>
-  <li>New lobby features for player handicaps and disabling spawn points</li>
-  <li>Community balance updates and a refreshed map selection for Red Alert and Tiberian Dawn</li>
-  <li>Further adjustments to make Dune 2000 more faithful to the original game</li>
-  <li>More fluid infantry combat after fixing several long-standing combat bugs</li>
-  <li>Nine more campaign missions have been ported for Red Alert</li>
-  <li>Improved AI behaviour and performance</li>
+  <li>The server browser shows and allows joining games from any installed mod.</li>
+  <li>It is now possible to disable the “short game” mode that was forced in the past.</li>
+  <li>The player name and colour can now be set up in the settings dialog.</li>
+  <li>When creating a server, the game informs the host about port forwarding issues.</li>
+  <li>Left-click mouse orders have been markedly improved.</li>
+  <li>Some missions now support difficulty levels.</li>
+  <li>A huge number of smaller gameplay fixes and improvements, including:
+    <ul>
+      <li>Friendly units blocking the exit of a production building will now move out of the way if needed.</li>
+      <li>Units will no longer hunt cloaked units.</li>
+      <li>The spy plane in Red Alert will no longer lure your anti-air capable units across the map.</li>
+      <li>Planes will no longer collide with helicopters and push them out of the way.</li>
+      <li>Your faction will not be revealed to enemies when you have selected a random faction in the lobby.</li>
+      <li>In sell mode, the tooltip will now show the expected refund value for structures.</li>
+      <li>Harvesters should now no longer block themselves at refineries, and also make use of all available refineries if the nearest ones are occupied.</li>
+    </ul>
+  </li>
+  <li>A similarly massive number of performance improvements have been made in this release.</li>
+  <li>Many race conditions and crashes have been fixed across the board.</li>
 </ul>
 
-<p>These features and more will be explained in more detail in the upcoming release spotlight, but for now you can look back over the previous news posts [<a href="/news/devblog-20200629/">1</a>, <a href="/news/playtest-20201213/">2</a>, <a href="/news/playtest-20210131/">3</a>] or the <a href="https://github.com/OpenRA/OpenRA/wiki/Changelog/79cc9e906649e1043e24e1f77a275e3b689d0d44">full changelog</a> for more information.</p>
+<p>For the complete list of changes, please visit <a href="https://github.com/OpenRA/OpenRA/wiki/Changelog/8636982a5a0d2ce7b27bbfe09ff69ef3cc2cd2e9">our changelog page</a>.</p>
 
-<p>An important compatibility note is that OpenRA now requires GPU support for either OpenGL 3.2, DirectX 11, or OpenGL ES 3. Moving away from the legacy OpenGL 2.1 is important for future compatibility with modern rendering APIs (Vulkan/Metal) and for improving rendering performance with Tiberian Sun and the C&amp;C Remastered Collection. This does unfortunately mean dropping support for some older systems (typically 10+ years old) that currently can run OpenRA, but we believe that this is a necessary tradeoff for the future.</p>
+<p>A note on key bindings: In the previous release, the key to toggle team chat was changed to ‘Alt’, which, looking back, was an unfortunate decision. It has been reverted to ‘Tab’ in this release, where it serves a double role: on an empty line, it toggles team chat, otherwise it auto-completes player names.</p>
+
+<p>For modders and mappers, there have been quite a few important changes as well. We have introduced a new map format, to which maps running on this release will be updated automatically. All of the shared engine code has been moved into the OpenRA.Mods.Common project, so that third-party mods can drop their dependencies on our game mods. A lot of code has been changed to enable features that will be needed by the Tiberian Sun mod. One important change for Red Alert mappers is that the gem mine has been replaced with a new one. For more details, check out the <a href="https://github.com/OpenRA/OpenRA/wiki/Historical-Changelogs">changelog</a>, as well as the <a href="https://github.com/openra/openra/wiki/Traits">trait</a> and <a href="https://github.com/openra/openra/wiki/Lua-API">Lua API</a> documentation.</p>
+
+<p>Looking forward, we hope to get the next release out faster than this time around (famous last words!). Feature-wise, you can probably expect the first appearance of the in-game map editor in the next release, in addition to much of the things that are currently in <a href="https://github.com/openra/openra/pulls">our pull request queue</a>. Beyond that, we will see… If you want to keep track of the development, keep an eye on the <a href="https://github.com/OpenRA/OpenRA/milestones/Next%20release">release milestone</a> and the <a href="https://github.com/openra/openra/wiki/Changelog%20(bleed)">development changelog</a>.</p>
+
+<p>We will also try to make more use of <a href="https://www.youtube.com/channel/UCRoiPL1J4K1-EhQeNazrYig">our YouTube channel</a> to show off new and little known existing features, provide mission walkthroughs and other content, so watch and subscribe!</p>
+
+<p>Now enough with the talking! Head on over to our <a href="/download">download section</a>, grab the installer for your OS, and enjoy the game!</p>
 
 <figure>
-  <img src="/images/news/20210321-website.png" style="width: 600px" alt="New OpenRA website" />
-  <figcaption>The new OpenRA website brings a new look and improved functionality.</figcaption>
+  <lite-youtube videoid="oK-paA7kRP0"></lite-youtube>
+  <figcaption>The long awaited sandworms and Carryalls have finally arrived in our Dune 2000 mod!</figcaption>
 </figure>
-
-<p>We are also today deploying a brand new website design. Lead by <a href="https://github.com/Fauntleroy">@Fauntleroy</a> with feedback from our GitHub and Discord communities, the fresh look also brings some important technology upgrades that improve the website behaviour on mobile devices, and adds new features for the <a href="/games">live games list</a>. We expect to continue improving and iterating on the new site, so let us know if you think that something important is missing or simply doesn’t look right.</p>
-
-<p>Let us know what you think of the new release and updated website in the comments below, on <a href="https://forum.openra.net">our forum</a>, <a href="https://discord.openra.net">community discord</a>, or <a href="https://github.com/OpenRA/OpenRA/issues">GitHub</a>. We hope you’ll enjoy these new updates! Have fun!</p>
+<p><br /></p>
+<figure>
+  <img src="/images/news/20150424-ra-country-dropdown.png" alt="Playable countries" />
+  <figcaption>Red Alert now has playable country factions, and matching choices for random faction selection.</figcaption>
+</figure>
+<p><br /></p>
+<figure>
+  <img src="/images/news/20150424-cnc-server-browser.png" alt="Overhauled server browser" />
+  <figcaption>The server browser now lists games from all available mods, and also allows joining games across mods.</figcaption>
+</figure>
+<p><br /></p>
+<figure>
+  <img src="/images/news/20150424-cnc-mission-difficulty.png" alt="Mission difficulty" />
+  <figcaption>Some missions have received support for multiple difficulty levels.</figcaption>
+</figure>
+<p><br /></p>
+<figure>
+  <img src="/images/news/20150424-ra-refund-tooltip.png" alt="Refund tooltip" />
+  <figcaption>In sell mode, the tooltip will now show a structure's expected refund value.</figcaption>
+</figure>
+<p><br /></p>
+<figure>
+  <img src="/images/news/20150424-ts-teaser.png" alt="Tiberian Sun teaser" />
+  <figcaption>Behind the scenes, the still unreleased, work-in-progress Tiberian Sun mod has received support for some crucial features. Keep an eye out for more news and media about TS <a href="https://facebook.com/openra">on our Facebook page</a>!</figcaption>
+</figure>
 
   </div>
   <footer class="developer-update__footer">
@@ -338,7 +244,7 @@
   if (document.domain == 'www.openra.net') {
     var disqus_config = function () {
       this.page.url = "" || window.location.href;
-      this.page.identifier = "release-20210321";
+      this.page.identifier = "release-20150424";
     };
 
     (function() {
@@ -364,10 +270,10 @@
 </noscript>
   </footer>
 </article>
-      
-    </div>
-  </div>
-</section>
+            
+            </div>
+          </div>
+        </section>
       </div>
 
       <footer class="site-footer">
@@ -488,8 +394,6 @@
 <script src="/scripts/vendor/svgxuse.min.js" async></script>
 <script src="/scripts/vendor/lite-youtube-embed.js" async></script>
 <script src="/scripts/global.js"></script>
-
-  <script type="text/javascript" src="/scripts/index.js"></script>
 
   </body>
 </html>
