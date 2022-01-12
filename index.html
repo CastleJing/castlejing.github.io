@@ -12,7 +12,7 @@
   <meta property="og:description" content="Classic strategy games rebuilt for the modern era" />
   <meta property="og:url" content="https://www.openra.net/" />
   <!-- query param at the end is for cache busting if/when more dynamic social images are added -->
-  <meta property="og:image" content="https://www.openra.net/images/social.jpg?t=2022-01-12-15-28" />
+  <meta property="og:image" content="https://www.openra.net/images/social.jpg?t=2022-01-12-15-54" />
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@openRA">
@@ -62,11 +62,11 @@
       </button>
 
       <nav class="site-header__nav">
-        <a class="site-header__nav__link" href="/news/" tabindex="0">公告栏</a>
+        <a class="site-header__nav__link" href="/news/" tabindex="0">新闻</a>
         <a class="site-header__nav__link" href="/about/" tabindex="0">关于</a>
-        <a class="site-header__nav__link" href="/download/" tabindex="0">下载</a>
-        <a class="site-header__nav__link" href="/games/" tabindex="0">游戏</a>
-        <a class="site-header__nav__link" href="/community/" tabindex="0">社区</a>
+        <a class="site-header__nav__link" href="/download/" tabindex="0">资源中心</a>
+        <a class="site-header__nav__link" href="/games/" tabindex="0">服务器列表</a>
+        <a class="site-header__nav__link" href="/community/" tabindex="0">国内社群</a>
         <a class="site-header__nav__link" href="https://forum.openra.net" tabindex="0">
           论坛
           <svg class="icon">
@@ -157,12 +157,16 @@
         <span id="game-carousel" class="hero__intro-text__games carousel">
           <span class="carousel__items">
             
+              <span class="hero__intro-text__group hero__intro-text__game carousel__item carousel__item">
+                汉化组,&nbsp;
+              </span>
+            
               <span class="hero__intro-text__ra hero__intro-text__game carousel__item carousel__item">
-                Red Alert,&nbsp;
+                红色警戒,&nbsp;
               </span>
             
               <span class="hero__intro-text__cnc hero__intro-text__game carousel__item carousel__item">
-                Command & Conquer,&nbsp;
+                命令与征服,&nbsp;
               </span>
             
               <span class="hero__intro-text__d2k hero__intro-text__game carousel__item carousel__item">
@@ -175,7 +179,7 @@
       </h1>
       <div class="install">
         <a class="button button--large button--primary" href="/download/">
-          Install Now
+          下载
           <svg class="button__icon icon">
             <use xlink:href="/images/icons/icons.svg#icon-download"></use>
           </svg>
@@ -184,10 +188,19 @@
     </header>
     <div id="hero-carousel" class="hero-carousel carousel">
       <div class="hero-carousel__items">
-        <div class="carousel__items" style="width: 300%">
+        <div class="carousel__items" style="width: 400%">
+          
+            <div id="hero-group" class="carousel__item">
+              <div class="carousel__item__content aspect-16-9">
+                
+                <img class="hero-carousel__image" src="/videos/openra-group.jpg"/>
+                
+              </div>
+            </div>
           
             <div id="hero-ra" class="carousel__item">
               <div class="carousel__item__content aspect-16-9">
+                
                 <video
                   class="hero-carousel__image"
                   autoplay="true"
@@ -197,11 +210,13 @@
                   <source src="/videos/red-alert-sizzle.webm" type="video/webm" />
                   <source src="/videos/red-alert-sizzle.mp4" type="video/mp4" />
                 </video>
+                
               </div>
             </div>
           
             <div id="hero-cnc" class="carousel__item">
               <div class="carousel__item__content aspect-16-9">
+                
                 <video
                   class="hero-carousel__image"
                   autoplay="true"
@@ -211,11 +226,13 @@
                   <source src="/videos/command-and-conquer-sizzle.webm" type="video/webm" />
                   <source src="/videos/command-and-conquer-sizzle.mp4" type="video/mp4" />
                 </video>
+                
               </div>
             </div>
           
             <div id="hero-d2k" class="carousel__item">
               <div class="carousel__item__content aspect-16-9">
+                
                 <video
                   class="hero-carousel__image"
                   autoplay="true"
@@ -225,6 +242,7 @@
                   <source src="/videos/dune-2000-sizzle.webm" type="video/webm" />
                   <source src="/videos/dune-2000-sizzle.mp4" type="video/mp4" />
                 </video>
+                
               </div>
             </div>
           
@@ -247,11 +265,15 @@
       <nav class="carousel__pages">
         
           <a href="#" class="carousel__page">
-            <span class="carousel__page__indicator">Jump to Red Alert</span>
+            <span class="carousel__page__indicator">Jump to 汉化组</span>
           </a>
         
           <a href="#" class="carousel__page">
-            <span class="carousel__page__indicator">Jump to Command & Conquer</span>
+            <span class="carousel__page__indicator">Jump to 红色警戒</span>
+          </a>
+        
+          <a href="#" class="carousel__page">
+            <span class="carousel__page__indicator">Jump to 命令与征服</span>
           </a>
         
           <a href="#" class="carousel__page">
