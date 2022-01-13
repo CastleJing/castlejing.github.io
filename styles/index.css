@@ -485,6 +485,8 @@ input.radio-button__input { margin-top: 0.75rem; margin-right: 0; margin-bottom:
 .hero__intro-text__game { cursor: pointer; transition: color 500ms cubic-bezier(0.83, 0, 0.17, 1); }
 .hero__intro-text__game:hover { color: #0f0e10; transition: color 100ms linear; }
 
+.hero__intro-text__group.carousel__item--current { color: #e6e6e6; }
+
 .hero__intro-text__ra.carousel__item--current { color: #ff1111; }
 
 .hero__intro-text__cnc.carousel__item--current { color: #ffc700; }
