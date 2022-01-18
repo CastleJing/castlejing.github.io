@@ -1,0 +1,28 @@
+name: Sync To Gitee
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  linux:
+    name: Sync and deploy
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Sync to gitee
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "CastleJing@github.com:CastleJing/castlejing.github.io.git"
+          destination-repo: "CastleJing@gitee.com:openra_cn/openra-cn-website.git"
+      - name: Push Website
+        env:
+          HEXO_DEPLOY_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$HEXO_DEPLOY_PRIVATE_KEY" > ~/.ssh/ssh_github
+          chmod 600 ~/.ssh/ssh_github
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          ssh gitbot@openra.org.cn -i ~/.ssh/ssh_github "cd test; git pull"
