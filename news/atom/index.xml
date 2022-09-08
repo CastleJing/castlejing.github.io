@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.openra.net/news/atom/index.xml" rel="self" type="application/atom+xml" /><link href="https://www.openra.net/" rel="alternate" type="text/html" /><updated>2022-09-07T16:01:21+00:00</updated><id>https://www.openra.net/news/atom/index.xml</id><title type="html">OpenRA</title><subtitle>OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command &amp; Conquer, and Dune 2000.</subtitle><entry><title type="html">Release 20210321 and a new website</title><link href="https://www.openra.net/news/release-20210321/" rel="alternate" type="text/html" title="Release 20210321 and a new website" /><published>2021-03-21T00:00:00+00:00</published><updated>2021-03-21T00:00:00+00:00</updated><id>https://www.openra.net/news/release-20210321</id><content type="html" xml:base="https://www.openra.net/news/release-20210321/">&lt;p&gt;今天是许多人一直在等待的日子：新的稳定OpenRA &lt;a href=&quot;/download&quot;&gt;Release 20210321&lt;/a&gt; 现在可用！&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.openra.net/news/atom/index.xml" rel="self" type="application/atom+xml" /><link href="https://www.openra.net/" rel="alternate" type="text/html" /><updated>2022-09-08T12:42:49+00:00</updated><id>https://www.openra.net/news/atom/index.xml</id><title type="html">OpenRA</title><subtitle>OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command &amp; Conquer, and Dune 2000.</subtitle><entry><title type="html">[机翻]20210321版本发布及新的网站设计</title><link href="https://www.openra.net/news/release-20210321/" rel="alternate" type="text/html" title="[机翻]20210321版本发布及新的网站设计" /><published>2021-03-21T00:00:00+00:00</published><updated>2021-03-21T00:00:00+00:00</updated><id>https://www.openra.net/news/release-20210321</id><content type="html" xml:base="https://www.openra.net/news/release-20210321/">&lt;p&gt;今天是许多人一直在等待的日子：新的稳定OpenRA &lt;a href=&quot;/download&quot;&gt;Release 20210321&lt;/a&gt; 现在可用！&lt;/p&gt;
 
 &lt;p&gt;我们最初计划通过新的&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwJbJ_UtmkDaL4cClS2QYd3uXueES4KEq&quot;&gt;patch spotlight&lt;/a&gt;视频来宣布此版本，但不幸的是，一次电脑故障让“FiveAces”的战场控制系统离线，直到修复完成。我们没有继续推迟发布，而是委托我们最好的艺术家制作下面的占位符图像，并会在它可用时改为真正的聚光灯。&lt;/p&gt;
 
@@ -30,33 +30,33 @@
 
 &lt;p&gt;今天，我们也正在部署全新的网站设计。由&lt;a href=&quot;https://github.com/Fauntleroy&quot;&gt;@Fauntleroy&lt;/a&gt;领导，我们的GitHub和Discord社区的反馈，新鲜外观还带来了一些重要的技术升级，以改善移动设备上的网站行为，并为实时游戏列表添加了新功能（&lt;a href=&quot;https://www.openra.net/games/&quot;&gt;英文官网页面&lt;/a&gt;）。我们希望在新网站上继续改进和迭代，因此，如果您认为重要的是缺少或根本不正确的事物，请告诉我们。&lt;/p&gt;
 
-&lt;p&gt;请在下面的评论、&lt;a href=&quot;https://forum.openra.net&quot;&gt;我们的论坛&lt;/a&gt;、&lt;a href=&quot;https://discord.openra.net&quot;&gt;社区discord&lt;/a&gt;或&lt;a href=&quot;https://github.com/OpenRA/OpenRA/issues&quot;&gt;GitHub&lt;/a&gt;上告诉我们您对新版本和更新网站的看法。我们希望您会喜欢这些新的更新！祝你玩得高兴！&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html">今天是许多人一直在等待的日子：新的稳定OpenRA Release 20210321 现在可用！</summary></entry><entry><title type="html">Playtest 20210131</title><link href="https://www.openra.net/news/playtest-20210131/" rel="alternate" type="text/html" title="Playtest 20210131" /><published>2021-01-31T00:00:00+00:00</published><updated>2021-01-31T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20210131</id><content type="html" xml:base="https://www.openra.net/news/playtest-20210131/">&lt;div style=&quot;border-radius: 4px; background-color: #272d2c; padding: 5px&quot;&gt;
+&lt;p&gt;请在下面的评论、&lt;a href=&quot;https://forum.openra.net&quot;&gt;我们的论坛&lt;/a&gt;、&lt;a href=&quot;https://discord.openra.net&quot;&gt;社区discord&lt;/a&gt;或&lt;a href=&quot;https://github.com/OpenRA/OpenRA/issues&quot;&gt;GitHub&lt;/a&gt;上告诉我们您对新版本和更新网站的看法。我们希望您会喜欢这些新的更新！祝你玩得高兴！&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html">今天是许多人一直在等待的日子：新的稳定OpenRA Release 20210321 现在可用！</summary></entry><entry><title type="html">[机翻]可玩性测试 20210131</title><link href="https://www.openra.net/news/playtest-20210131/" rel="alternate" type="text/html" title="[机翻]可玩性测试 20210131" /><published>2021-01-31T00:00:00+00:00</published><updated>2021-01-31T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20210131</id><content type="html" xml:base="https://www.openra.net/news/playtest-20210131/">&lt;div style=&quot;border-radius: 4px; background-color: #272d2c; padding: 5px&quot;&gt;
 &lt;div style=&quot;margin: -10px 5px&quot;&gt;
 
-    &lt;p&gt;Following a great run of testing over the holiday period, we are today releasing a new playtest build to fix reported issues and add some last-minute features.&lt;/p&gt;
+    &lt;p&gt;在整个假期期间进行了大量的测试之后，我们今天发布了新的Playtest构建，以解决报告的问题并添加一些最后一刻的功能。&lt;/p&gt;
 
-    &lt;p&gt;Notable changes in &lt;a href=&quot;/download&quot;&gt;playtest-20210131&lt;/a&gt; include:&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/download&quot;&gt;可玩性测试-20210131&lt;/a&gt; 的重大更新包括：&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;A new Handicap option to adjust the difficulty for individual players in Skirmish and Multiplayer&lt;/li&gt;
-      &lt;li&gt;A new “Pause Menu Background” option in the display settings&lt;/li&gt;
-      &lt;li&gt;One more mission (“Shock Therapy” from the Aftermath) for Red Alert&lt;/li&gt;
-      &lt;li&gt;A new “Oil Spill” minigame map for Red Alert&lt;/li&gt;
-      &lt;li&gt;Additional community balance refinements for Tiberian Dawn&lt;/li&gt;
-      &lt;li&gt;A collection of audio and explosion changes to match the original games&lt;/li&gt;
-      &lt;li&gt;Fixes for downstream Linux packaging&lt;/li&gt;
-      &lt;li&gt;Fixes for bugs and crashes reported in playtest-20201213&lt;/li&gt;
-      &lt;li&gt;A new &lt;a href=&quot;https://github.com/OpenRA/OpenRAModSDK/releases/tag/20210131&quot;&gt;Mod SDK Release&lt;/a&gt; for community mods&lt;/li&gt;
+      &lt;li&gt;一个新的障碍选项，以调整小规模和多人游戏中的个别球员的难度&lt;/li&gt;
+      &lt;li&gt;显示设置中的新“暂停菜单背景”选项&lt;/li&gt;
+      &lt;li&gt;新的任务（劫后余生的“休克疗法”）&lt;/li&gt;
+      &lt;li&gt;新的“漏油”迷你游戏地图&lt;/li&gt;
+      &lt;li&gt;提伯利亚黎明的其他社区平衡改进&lt;/li&gt;
+      &lt;li&gt;匹配原始游戏的音频和爆炸的集合&lt;/li&gt;
+      &lt;li&gt;修复下游Linux包装&lt;/li&gt;
+      &lt;li&gt;修复了Playtest-20201213中报告的错误和崩溃的修复程序&lt;/li&gt;
+      &lt;li&gt;一个新的社区模组&lt;a href=&quot;https://github.com/OpenRA/OpenRAModSDK/releases/tag/20210131&quot;&gt;mod SDK版本&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
 
-    &lt;p&gt;For more information, see the &lt;a href=&quot;https://github.com/OpenRA/OpenRA/wiki/Changelog/c3df4d181331b89866b1f86d8217b4028a4361ae&quot;&gt;full changelog&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;有关更多信息，请参见&lt;a href=&quot;https://github.com/OpenRA/OpenRA/wiki/Changelog/c3df4d181331b89866b1f86d8217b4028a4361ae&quot;&gt;完整更新日志&lt;/a&gt;.&lt;/p&gt;
 
-    &lt;p&gt;We expect this will be our final test before a full release in February, so we encourage everybody to play some games and let us know if you find any issues in the comments below, on &lt;a href=&quot;https://forum.openra.net&quot;&gt;our forum&lt;/a&gt;, &lt;a href=&quot;https://discord.openra.net&quot;&gt;Community Discord&lt;/a&gt;, or &lt;a href=&quot;https://github.com/OpenRA/OpenRA/&quot;&gt;GitHub&lt;/a&gt; issues.&lt;/p&gt;
+    &lt;p&gt;我们希望这将是2月份完整发布之前的最终测试，因此我们鼓励大家玩一些游戏，并在&lt;a href=&quot;https://forum.openra.net&quot;&gt;我们的论坛&lt;/a&gt;上的评论中，&lt;a href=&quot;https://discord.openra.net&quot;&gt;社区 Discord&lt;/a&gt;，以及&lt;a href=&quot;https://github.com/OpenRA/OpenRA/&quot;&gt;GitHub&lt;/a&gt;问题告诉我们。&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;The &lt;a href=&quot;/news/playtest-20201213/&quot;&gt;original playtest-20201213 announcement&lt;/a&gt; is included below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/news/playtest-20201213/&quot;&gt;最初的 可玩性测试-20201213 公告&lt;/a&gt; 如下:&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -69,43 +69,43 @@
   &lt;figcaption&gt;Happy holidays from the OpenRA community!&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Just in time for the holiday period, we are kicking off a new playtest series for the next OpenRA release. Recent development has focused on building the foundation for future features, including a lot of work towards the Tiberian Sun mod which we described in our &lt;a href=&quot;/news/devblog-20200629/&quot;&gt;last news post&lt;/a&gt;. But this does not mean that this release is short on new features!&lt;/p&gt;
+&lt;p&gt;正好在假期期间，我们将在下一个OpenRA发行的新可玩性测试系列赛开始。最近的发展集中于为未来的功能奠定基础，包括我们在&lt;a href=&quot;/news/devblog-20200629/&quot;&gt;上一篇新闻文章&lt;/a&gt;中描述的许多关于Tiberian Sun mod的工作。但这并不意味着这个版本缺少新功能！&lt;/p&gt;
 
-&lt;p&gt;Some of the new changes to look out for in &lt;a href=&quot;/download&quot;&gt;playtest-20201213&lt;/a&gt; include:&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&quot;/download&quot;&gt;可玩性测试-20201213&lt;/a&gt;中要注意的一些新更改包括：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;New lobby options for Stealth Deliveries in Tiberian Dawn and Automatic Concrete in Dune 2000&lt;/li&gt;
-  &lt;li&gt;Disable spawn points in a game lobby by right-clicking on the map preview&lt;/li&gt;
-  &lt;li&gt;Share OpenRA status and game invites on Discord&lt;/li&gt;
-  &lt;li&gt;More fluid infantry combat after fixing several long-standing combat bugs&lt;/li&gt;
-  &lt;li&gt;Battlefield zooming is now centered on the mouse cursor&lt;/li&gt;
-  &lt;li&gt;Red Alert Spies can now reset support powers by infiltrating the structure that grants them&lt;/li&gt;
-  &lt;li&gt;Servers can be configured to save replays, enabling the creation of community ladders&lt;/li&gt;
+  &lt;li&gt;泰伯利亚的黎明和沙丘 2000年自动混凝土的隐形交付的新大厅选项&lt;/li&gt;
+  &lt;li&gt;通过右键单击地图预览，禁用游戏大厅中的产卵点&lt;/li&gt;
+  &lt;li&gt;分享OpenRA状态和游戏邀请&lt;/li&gt;
+  &lt;li&gt;修复了几个长期的战斗虫子后，更多的流动步兵战斗&lt;/li&gt;
+  &lt;li&gt;战场缩放现在以鼠标光标为中心&lt;/li&gt;
+  &lt;li&gt;红色警报间谍现在可以通过渗透授予它们的结构来重置支持力量&lt;/li&gt;
+  &lt;li&gt;服务器可以配置为保存重播，从而创建社区梯子&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Red Alert and Tiberian Dawn include an updated set of skirmish/multiplayer maps, and community balance changes refresh their multiplayer meta. Dune 2000 features new weapon damage calculations that are more faithful to the original game, plus a number of other small consistency fixes. For single-player fans, Red Alert includes 8 more missions from the original game, and the AI behavior and performance has been improved across the board.&lt;/p&gt;
+&lt;p&gt;红色警报和泰伯利亚的黎明包括一套更新的小冲突/多人地图，社区平衡的变化刷新了他们的多人元。沙丘2000的特点是新的武器伤害计算更忠实于原始游戏，加上一些其他小的一致性修复。对于单人玩家粉丝来说，《红色警报》比原游戏增加了8个任务，AI行为和性能全面提升。&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;/images/news/20201213-discord.png&quot; style=&quot;width: 600px&quot; alt=&quot;Players who use Discord can now share their status and post game invites&quot; /&gt;
-  &lt;figcaption&gt;Players who use Discord can now share their status and post game invites in their favorite channels.&lt;/figcaption&gt;
+  &lt;figcaption&gt;使用Discord的玩家现在可以在他们喜欢的频道中分享他们的状态和游戏邀请。&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Another topic from our &lt;a href=&quot;/news/devblog-20200629/&quot;&gt;previous development update&lt;/a&gt; was the announcement that we plan to support the C&amp;amp;C Remastered Collection game assets in OpenRA’s Red Alert and Tiberian Dawn mods. The initial prototyping for this feature has been completed, and we are now working to integrate the required changes into the game engine for a future release.&lt;/p&gt;
+&lt;p&gt;我们的 &lt;a href=&quot;/news/devblog-20200629/&quot;&gt;先行版更新&lt;/a&gt; 中的另一个主题是，我们计划在OpenRA的Red Alert和泰伯利亚的黎明模组中支持C＆C重新制作的Collected Collection Game Assets。&lt;/p&gt;
 
-&lt;p&gt;Supporting these new assets will require optimizations that are not compatible with our legacy OpenGL 2.1 support, which is now disabled by default. On Windows, OpenRA will now use DirectX 11 (via the ANGLE library) for rendering. Please let us know if you encounter any unexpected graphical or performance issues!&lt;/p&gt;
+&lt;p&gt;支持这些新资产将需要优化，这些优化与我们的传统OpenGL 2.1支持不兼容，后者现在默认禁用。在Windows上，OpenRA现在将使用DirectX 11（通过角度库）进行渲染。如果您遇到任何意外的图形或性能问题，请告知我们！&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;lite-youtube videoid=&quot;Vqsferf8iSc&quot;&gt;&lt;/lite-youtube&gt;
   &lt;figcaption&gt;An early sneak-preview of OpenRA with the C&amp;amp;C Remastered Collection game assets.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Another technical focus for this release has been making preparations to migrate OpenRA to the modern cross-platform .NET (previously .NET Core) runtime. This release still uses the legacy .NET Framework and Mono, but makes significant changes behind the scenes which may require server hosts and package maintainers to adapt their build and run scripts. We anticipate that the next major OpenRA release will require .NET 5 (preferred) or Mono &amp;gt;= 6.4.&lt;/p&gt;
+&lt;p&gt;本版本的另一个技术重点是准备将OpenRA迁移到现代跨平台.NET（以前是.NET核心）运行时。此版本仍然使用传统的.NET框架和Mono，但在幕后进行了重大更改，这可能需要服务器主机和软件包维护人员调整其构建和运行脚本。我们预计下一个主要的OpenRA版本将需要.NET 5（首选）或Mono&amp;gt;=6.4。&lt;/p&gt;
 
-&lt;p&gt;Our main macOS release now requires 10.13 or newer, but we plan to keep supporting players on 10.9 – 10.12 using a new “compat” release that can be downloaded from our &lt;a href=&quot;https://github.com/OpenRA/OpenRA/releases&quot;&gt;GitHub Release Milestones&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;我们的主要macOS版本现在需要10.13或更高版本，但我们计划使用新的兼容版本继续支持10.9 – 10.12版本的玩家，下载地址：&lt;a href=&quot;https://github.com/OpenRA/OpenRA/releases&quot;&gt;GitHub 版本里程碑&lt;/a&gt;。&lt;/p&gt;
 
-&lt;p&gt;This post has covered just a small subset of the &lt;a href=&quot;https://github.com/OpenRA/OpenRA/wiki/Changelog/d207b07fe1713e2dedf547dbb09e03d120cffe9b&quot;&gt;full changelog&lt;/a&gt;, and we encourage anybody interested in finding out more to read the full list. Head on over to the &lt;a href=&quot;/download&quot;&gt;download page&lt;/a&gt; to install the new playtest, and let us know what you think in the comments below, on &lt;a href=&quot;https://forum.openra.net/&quot;&gt;our forum&lt;/a&gt;, &lt;a href=&quot;https://discord.gg/UcUztfr&quot;&gt;community Discord server&lt;/a&gt;, or &lt;a href=&quot;https://github.com/OpenRA/OpenRA/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;这篇文章仅涵盖了&lt;a href=&quot;https://github.com/OpenRA/OpenRA/wiki/Changelog/d207b07fe1713e2dedf547dbb09e03d120cffe9b&quot;&gt;full changelog&lt;/a&gt;的一小部分, 我们鼓励任何有兴趣了解更多信息的人阅读完整列表，请转到&lt;a href=&quot;/download&quot;&gt;下载页面&lt;/a&gt; 来安装新的可玩性测试版本，然后在下方评论，&lt;a href=&quot;https://forum.openra.net&quot;&gt;我们的论坛&lt;/a&gt;，&lt;a href=&quot;https://discord.openra.net&quot;&gt;社区 Discord&lt;/a&gt;，以及&lt;a href=&quot;https://github.com/OpenRA/OpenRA/&quot;&gt;GitHub&lt;/a&gt;中评论，来让我们知道你们的想法。&lt;/p&gt;
 
-&lt;p&gt;Remember that playtests install alongside the OpenRA release version, and you can automatically switch between the two versions when joining a multiplayer server, so there is no reason not to give it a try!&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Playtest 20201213</title><link href="https://www.openra.net/news/playtest-20201213/" rel="alternate" type="text/html" title="Playtest 20201213" /><published>2020-12-13T00:00:00+00:00</published><updated>2020-12-13T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20201213</id><content type="html" xml:base="https://www.openra.net/news/playtest-20201213/">&lt;figure&gt;
+&lt;p&gt;请记住，playtests与OpenRA发行版一起安装，您可以在加入多人游戏服务器时自动在两个版本之间切换，因此没有理由不尝试！&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Playtest 20201213</title><link href="https://www.openra.net/news/playtest-20201213/" rel="alternate" type="text/html" title="Playtest 20201213" /><published>2020-12-13T00:00:00+00:00</published><updated>2020-12-13T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20201213</id><content type="html" xml:base="https://www.openra.net/news/playtest-20201213/">&lt;figure&gt;
   &lt;video width=&quot;700&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
     &lt;source src=&quot;/images/news/20201213-christmas-mp4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
     &lt;source src=&quot;/images/news/20201213-christmas-ogv.ogv&quot; type=&quot;video/ogg&quot; /&gt;
