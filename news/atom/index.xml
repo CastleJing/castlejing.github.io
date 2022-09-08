@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.openra.net/news/atom/index.xml" rel="self" type="application/atom+xml" /><link href="https://www.openra.net/" rel="alternate" type="text/html" /><updated>2022-09-08T12:56:17+00:00</updated><id>https://www.openra.net/news/atom/index.xml</id><title type="html">OpenRA</title><subtitle>OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command &amp; Conquer, and Dune 2000.</subtitle><entry><title type="html">[机翻]20210321版本发布及新的网站设计</title><link href="https://www.openra.net/news/release-20210321/" rel="alternate" type="text/html" title="[机翻]20210321版本发布及新的网站设计" /><published>2021-03-21T00:00:00+00:00</published><updated>2021-03-21T00:00:00+00:00</updated><id>https://www.openra.net/news/release-20210321</id><content type="html" xml:base="https://www.openra.net/news/release-20210321/">&lt;p&gt;今天是许多人一直在等待的日子：新的稳定OpenRA &lt;a href=&quot;/download&quot;&gt;Release 20210321&lt;/a&gt; 现在可用！&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.openra.net/news/atom/index.xml" rel="self" type="application/atom+xml" /><link href="https://www.openra.net/" rel="alternate" type="text/html" /><updated>2022-09-08T13:01:19+00:00</updated><id>https://www.openra.net/news/atom/index.xml</id><title type="html">OpenRA</title><subtitle>OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command &amp; Conquer, and Dune 2000.</subtitle><entry><title type="html">[机翻]20210321版本发布及新的网站设计</title><link href="https://www.openra.net/news/release-20210321/" rel="alternate" type="text/html" title="[机翻]20210321版本发布及新的网站设计" /><published>2021-03-21T00:00:00+00:00</published><updated>2021-03-21T00:00:00+00:00</updated><id>https://www.openra.net/news/release-20210321</id><content type="html" xml:base="https://www.openra.net/news/release-20210321/">&lt;p&gt;今天是许多人一直在等待的日子：新的稳定OpenRA &lt;a href=&quot;/download&quot;&gt;Release 20210321&lt;/a&gt; 现在可用！&lt;/p&gt;
 
 &lt;p&gt;我们最初计划通过新的&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwJbJ_UtmkDaL4cClS2QYd3uXueES4KEq&quot;&gt;patch spotlight&lt;/a&gt;视频来宣布此版本，但不幸的是，一次电脑故障让“FiveAces”的战场控制系统离线，直到修复完成。我们没有继续推迟发布，而是委托我们最好的艺术家制作下面的占位符图像，并会在它可用时改为真正的聚光灯。&lt;/p&gt;
 
@@ -79,11 +79,11 @@
   &lt;li&gt;分享OpenRA状态和游戏邀请&lt;/li&gt;
   &lt;li&gt;修复了几个长期的战斗虫子后，更多的流动步兵战斗&lt;/li&gt;
   &lt;li&gt;战场缩放现在以鼠标光标为中心&lt;/li&gt;
-  &lt;li&gt;红色警报间谍现在可以通过渗透授予它们的结构来重置支持力量&lt;/li&gt;
+  &lt;li&gt;红色警戒间谍现在可以通过渗透授予它们的结构来重置支持力量&lt;/li&gt;
   &lt;li&gt;服务器可以配置为保存重播，从而创建社区梯子&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;红色警报和泰伯利亚的黎明包括一套更新的小冲突/多人地图，社区平衡的变化刷新了他们的多人元。沙丘2000的特点是新的武器伤害计算更忠实于原始游戏，加上一些其他小的一致性修复。对于单人玩家粉丝来说，《红色警报》比原游戏增加了8个任务，AI行为和性能全面提升。&lt;/p&gt;
+&lt;p&gt;红色警戒和泰伯利亚的黎明包括一套更新的小冲突/多人地图，社区平衡的变化刷新了他们的多人元。沙丘2000的特点是新的武器伤害计算更忠实于原始游戏，加上一些其他小的一致性修复。对于单人玩家粉丝来说，《红色警戒》比原游戏增加了8个任务，AI行为和性能全面提升。&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;img src=&quot;/images/news/20201213-discord.png&quot; style=&quot;width: 600px&quot; alt=&quot;Players who use Discord can now share their status and post game invites&quot; /&gt;
@@ -105,7 +105,7 @@
 
 &lt;p&gt;这篇文章仅涵盖了&lt;a href=&quot;https://github.com/OpenRA/OpenRA/wiki/Changelog/d207b07fe1713e2dedf547dbb09e03d120cffe9b&quot;&gt;full changelog&lt;/a&gt;的一小部分, 我们鼓励任何有兴趣了解更多信息的人阅读完整列表，请转到&lt;a href=&quot;/download&quot;&gt;下载页面&lt;/a&gt; 来安装新的可玩性测试版本，然后在下方评论，&lt;a href=&quot;https://forum.openra.net&quot;&gt;我们的论坛&lt;/a&gt;，&lt;a href=&quot;https://discord.openra.net&quot;&gt;社区 Discord&lt;/a&gt;，以及&lt;a href=&quot;https://github.com/OpenRA/OpenRA/&quot;&gt;GitHub&lt;/a&gt;中评论，来让我们知道你们的想法。&lt;/p&gt;
 
-&lt;p&gt;请记住，playtests与OpenRA发行版一起安装，您可以在加入多人游戏服务器时自动在两个版本之间切换，因此没有理由不尝试！&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Playtest 20201213</title><link href="https://www.openra.net/news/playtest-20201213/" rel="alternate" type="text/html" title="Playtest 20201213" /><published>2020-12-13T00:00:00+00:00</published><updated>2020-12-13T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20201213</id><content type="html" xml:base="https://www.openra.net/news/playtest-20201213/">&lt;figure&gt;
+&lt;p&gt;请记住，可玩性测试与OpenRA发行版一起安装，您可以在加入多人游戏服务器时自动在两个版本之间切换，因此没有理由不尝试！&lt;/p&gt;</content><author><name>Paul Chote</name></author><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Playtest 20201213</title><link href="https://www.openra.net/news/playtest-20201213/" rel="alternate" type="text/html" title="Playtest 20201213" /><published>2020-12-13T00:00:00+00:00</published><updated>2020-12-13T00:00:00+00:00</updated><id>https://www.openra.net/news/playtest-20201213</id><content type="html" xml:base="https://www.openra.net/news/playtest-20201213/">&lt;figure&gt;
   &lt;video width=&quot;700&quot; autoplay=&quot;&quot; loop=&quot;&quot; muted=&quot;&quot;&gt;
     &lt;source src=&quot;/images/news/20201213-christmas-mp4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
     &lt;source src=&quot;/images/news/20201213-christmas-ogv.ogv&quot; type=&quot;video/ogg&quot; /&gt;
